@@ -12,14 +12,14 @@ Specyfikacja wymagań funkcjonalnych w ramach informatyzacji procesu sprzedaży 
 
 **Aktorzy:** [Sprzedający](#ac1), [Kupujący](#ac2)
 
-**Opis:** Proces biznesowy opisujący sprzedaż za pomocą mechanizmu aukcyjnego. |
+**Opis:** Proces biznesowy opisujący sprzedaż za pomocą mechanizmu aukcyjnego.
 
 **Scenariusz główny:**
 1. [Sprzedający](#ac1) wystawia produkt na aukcję. ([UC1](#uc1))
 2. [Kupujący](#ac2) oferuje kwotę za produkt wyższą od aktualnie najwyższej oferty. ([BR1](#br1)[UC2](#uc2))
 3. [Kupujący](#ac2) wygrywa aukcję ([BR2](#br2)[UC3](#uc3))
 4. [Kupujący](#ac2) przekazuje należność Sprzedającemu. ([UC4](#uc4))
-5. [Sprzedający](#ac1) przekazuje produkt Kupującemu. ([UC5](#uc5))
+5. [Sprzedający](#ac1) przekazanie produktu Kupującemu. ([UC5](#uc5))
 
 **Scenariusze alternatywne:** 
 
@@ -50,12 +50,12 @@ Osoba chcąca zakupić produkt na aukcji.
 
 [Sprzedający](#ac1):
 * [UC1](#uc1): Wystawienie produktu na aukcję
-* [UC5](#uc5): Przekazuje produkt Kupującemu
+* [UC5](#uc5): Przekazanie produktu Kupującemu
 
 [Kupujący](#ac2)
 * [UC2](#uc2): Oferuje kwotę za produkt wyższą od aktualnie najwyższej oferty
 * [UC3](#uc3): Wygrywa aukcję
-* [UC4](#uc4): Przekazuje należność Sprzedającemu
+* [UC4](#uc4): Przekanie należności Sprzedającemu
 
 ---
 <a id="uc1"></a>
