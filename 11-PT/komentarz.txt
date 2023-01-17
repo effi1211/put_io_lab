@@ -8,3 +8,6 @@ W zamian za to zapisałem ją do zmiennej co zmienjszyło liczbę wywołań funk
 W rezultacie w podczas każdej interacji pętli zostały zminimalizowane nadmiarowe wywowłania funcji.
 
 Zadanie 2
+10 drukarek: średnia przepustowość 2.1/sec
+25 drukarek: średnia przepustowość 4.8/sec
+30 drukarek: średnia przepustowość 5.9/sec
